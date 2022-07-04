@@ -1,6 +1,6 @@
 ## Welcome to TheArcadio's GitHub page
 
-You can use the [editor on GitHub](https://github.com/thearcadio/thearcadio.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Feel free to check out my [repositories here](https://github.com/thearcadio)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
